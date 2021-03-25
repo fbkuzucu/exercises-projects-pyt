@@ -1,0 +1,12 @@
+Ahmet G.,70,90,20
+Barış A.,90,80,60
+Ege T.,60,30,50
+Elif A.,80,40,80
+Abdullah D.,70,20,40
+Kareem D.,90,90,80
+Jonathan C.,40,30,30
+Berkay P.,50,70,60
+Emir A.,70,60,30
+Meryem A.,20,80,70
+Serkan U.,40,10,100
+Esra E.,10,10,30
